@@ -1,1 +1,1 @@
-# a-Brand-website
+Learning how to use git with Ashimi
